@@ -1,7 +1,7 @@
 杂记：  
 一、ffmpeg如何让FLV支持265:  
 1.winlin建议ffmpeg支持flv265： https://trac.ffmpeg.org/ticket/6389  
-2.金山云patch支持flv265：
+2.金山云patch支持flv265：  
 A.(patch)https://github.com/ksvc/FFmpeg/wiki/instructions  
 B.(wiki)https://github.com/ksvc/FFmpeg/wiki  
 3.cdn联盟定义flv265类型：https://github.com/CDN-Union/H265  
